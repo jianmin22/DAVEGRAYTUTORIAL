@@ -1,0 +1,9 @@
+20230322	21:01:38	27d873a9-b70a-4852-9e73-1a5e4c472564	TypeError: Cannot read properties of undefined (reading 'username')
+20230323	20:44:53	2252706b-b939-42b3-a95f-52231130e594	TypeError: authHeader?.startWith is not a function
+20230402	22:21:30	1f259954-9b17-4bbd-9655-76f103875b69	Error: Not allowed by CORS
+20230402	22:21:31	a9425cea-ad24-43ab-9aa5-ed5b65ed8a57	Error: Not allowed by CORS
+20230402	22:21:44	8f556583-9f13-4080-841b-c5324492a076	Error: Not allowed by CORS
+20230402	22:22:21	b6afe44f-e9b1-404a-978e-9e942b930b94	Error: Not allowed by CORS
+20230402	22:22:22	c1b039a9-3c29-4a7e-bbf3-2ce62bd6a093	Error: Not allowed by CORS
+20230402	22:22:23	0eae097c-2271-49cf-aa2a-3014dbd32bc0	Error: Not allowed by CORS
+20230402	22:22:31	41a7f272-88f5-4d1b-ac65-a8eccf9f2003	Error: Not allowed by CORS
